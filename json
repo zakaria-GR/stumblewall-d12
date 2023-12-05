@@ -1,0 +1,37 @@
+{
+  "ADS": [
+    {
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads": "",
+      "main_ads_banner": "437896328404192_437897085070783",
+      "main_ads_intertitial": "437896328404192_437897228404102",
+      "backup_ads_banner": "",
+      "backup_ads_intertitial": "",
+      "initialize_sdk": "",
+      "initialize_sdk_backup_ads": "",
+      "main_ads_native": "437896328404192_665600435633779",
+      "backup_ads_native": "",
+      "interstitial_counter": "0",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "keyword_home_fragment": "stumble guys , fall guys",
+      "show_category": "1"
+    }
+  ],
+  "DATA": [
+    {
+      "title_search": "cars",
+      "image_url": "https://ia801509.us.archive.org/3/items/mountain-3840x2160-sun-river-purple-triangle-4k-15642/aAxd8L2_460s.jpg"
+    },
+    {
+      "title_search": "art",
+      "image_url": "https://archive.org/download/mountain-3840x2160-sun-river-purple-triangle-4k-15642/mountain-3840x2160-sun-river-purple-triangle-4k-15642.jpg"
+    }
+   
+  ]
+}
